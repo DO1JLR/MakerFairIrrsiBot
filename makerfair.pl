@@ -1,8 +1,5 @@
 #!/usr/bin/perl
 #!/usr/bin/perl
-use JSON;                       # Zum verwenden der nodes.json
-use LWP::Simple;                # Zum testen, wie die nodes.json aussieht, wird aber gerade nicht benötigt...
-use Data::Dumper;				# Ausgabe der json zum testen (produktiv nicht benoetigt)
 use strict;                     # Good practice
 use warnings;                   # Good practice
 use Irssi;                      # Für den Bot
